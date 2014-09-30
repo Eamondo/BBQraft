@@ -1,0 +1,21 @@
+[
+{
+  "modid": "bbqraft",
+  "name": "BBQraft",
+  "description": "Throw another shrimp on the barbie!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Eamondo0"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
